@@ -9,7 +9,6 @@ This app written in kotlin
 - Gradle Version 6.1.1
 
 ### Library Used
-
 - Android Google Material v1.3.0-alpha01
 - [Retrofit2](https://square.github.io/retrofit/ "Retrofit2") v2.9.0
 - [Retrofit2-Gson Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/gson) v2.9.0
@@ -21,4 +20,7 @@ This app written in kotlin
 - [lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle) v.2.2.0
 - [preference](https://developer.android.com/jetpack/androidx/releases/preference) v.1.1.1
 - [Data Binding](https://developer.android.com/jetpack/androidx/releases/databinding)
+
+### Reference:
+Youtube Channel Simplified Coding you can visit on this [link](https://www.youtube.com/c/SimplifiedcodingNetOfficial)
 
